@@ -1,30 +1,44 @@
 [
-{
-  "id": 1,
-  "title": "Weather Forecast",
-  "liveURL": "https://cadbuckle.github.io/weather-forecast/",
-  "gitRepo": "Link to the GitHub repository",
-  "screenShot": "GIF or screenshot of the deployed application"
-},
-{
-  "id": 2,
-  "title": "Git README.md Generator",
-  "liveURL": "https://github.com/cadbuckle/genReadme",
-  "gitRepo": "Link to the GitHub repository",
-  "screenShot": "GIF or screenshot of the deployed application"
-},
-{
-  "id": 3,
-  "title": "Work Day Scheduler",
-  "liveURL": "https://cadbuckle.github.io/workdayschedule/",
-  "gitRepo": "Link to the GitHub repository",
-  "screenShot": "GIF or screenshot of the deployed application"
-},
-{
-  "id": 4,
-  "title": "Password Generator",
-  "liveURL": "https://cadbuckle.github.io/genpassword/",
-  "gitRepo": "Link to the GitHub repository",
-  "screenShot": "GIF or screenshot of the deployed application"
-}
+  {
+    "id": 1,
+    "title": "Weather Forecast",
+    "liveURL": "https://cadbuckle.github.io/weather-forecast/",
+    "gitRepo": "https://github.com/cadbuckle/weather-forecast",
+    "screenShot": "https://github.com/cadbuckle/weather-forecast/raw/main/assets/images/screenshot3.png"
+  },
+  {
+    "id": 2,
+    "title": "Git README.md Generator",
+    "liveURL": "https://cadbuckle.github.io/genReadme",
+    "gitRepo": "https://github.com/cadbuckle/genReadme",
+    "screenShot": ""
+  },
+  {
+    "id": 3,
+    "title": "Recipe Finder (Ready to Cook",
+    "liveURL": "https://cadbuckle.github.io/ready-to-cook/",
+    "gitRepo": "https://github.com/cadbuckle/ready-to-cook/settings/pages",
+    "screenShot": "https://github.com/cadbuckle/ready-to-cook/raw/main/assets/images/screenshot-search.png"
+  },
+  {
+    "id": 4,
+    "title": "Work Day Scheduler",
+    "liveURL": "https://cadbuckle.github.io/workdayschedule/",
+    "gitRepo": "https://github.com/cadbuckle/workdayschedule",
+    "screenShot": "https://github.com/cadbuckle/workdayschedule/raw/main/assets/images/ScreenshotWithItems.png"
+  },
+  {
+    "id": 5,
+    "title": "Team Profile Generator",
+    "liveURL": "https://cadbuckle.github.io/genpassword/",
+    "gitRepo": "https://github.com/cadbuckle/genTeamProfile",
+    "screenShot": ""
+  },
+  {
+    "id": 6,
+    "title": "Password Generator",
+    "liveURL": "https://cadbuckle.github.io/genpassword/",
+    "gitRepo": "https://github.com/cadbuckle/genpassword",
+    "screenShot": "https://github.com/cadbuckle/genpassword/raw/main/images/Screen-01-InitialScreen.png"
+  }
 ]

@@ -6,7 +6,7 @@ import "./Project.css";
 // render project title, link to deployed version, link to repo, screenshot
 function Project(props) {
   return (
-    <div class="col-sm-12 col-md-6 col-lg-4 pb-2">
+    <div className="col-sm-12 col-md-6 col-lg-4 pb-2">
       <div className="card">
         <div className="img-container">
           <img alt={props.title} src={props.screenShot} />
@@ -25,7 +25,7 @@ function Project(props) {
           </ul>
         </div>
       </div>
-    </div>
+     </div>
   );
 }
 
