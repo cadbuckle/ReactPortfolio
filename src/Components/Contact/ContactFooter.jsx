@@ -9,7 +9,7 @@ function ContactFooter() {
       <div className="col-sm-12 col-md-6 col-lg-4">
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title">Email To:</h5>
+            <h5 className="card-title">Email</h5>
             <p className="card-text">
               <a href="mailto:duncan.buckle@gmail.com">Duncan</a>
             </p>

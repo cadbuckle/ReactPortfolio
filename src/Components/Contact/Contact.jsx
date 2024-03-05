@@ -73,7 +73,7 @@ function Contact() {
           Submit
         </button>
       </form>
-      <br></br><br></br><ContactFooter />
+      <ContactFooter />
     </div>
   );
 }
