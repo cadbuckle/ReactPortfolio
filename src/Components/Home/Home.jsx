@@ -1,37 +1,44 @@
-import React from "react";
+import { React, require } from "react";
+import ImgMe from '../../assets/DuncanAtSilverstone.jpg';
 
-// welcome/landing page containing
-// - my name
-// - my headshot
 // - my brand statement
 // - An indication that this site is a portfolio of my work
 function Home() {
   return (
     // <div className="container-fluid">
-    <div className="col-sm-12 col-md-6 col-lg-4 pb-2">
-      <div className="p-5 mb-4 bg-body-tertiary rounded-3">
-        <div className="container-fluid py-5">
-          <h1 className="display-5 fw-bold">Hello, world!</h1>
-          <p className="col-md-8 fs-4">I'm a jumbotron!</p>
-          <button className="btn btn-primary btn-lg" type="button">
-            Example button
-          </button>
+    <div className="container-fluid">
+      <div className="row">
+        <div className="col-3" id="aboutme">
+          <h2>About Me</h2>
         </div>
-      </div>
-      <div className="card mb-4">
-        <div className="card-header">
-          <h3>Card title</h3>
-        </div>
-        <div className="card-body">
-          <p className="card-text">Card content</p>
-        </div>
-      </div>
-      <div className="card mb-4">
-        <div className="card-header">
-          <h3>Card title</h3>
-        </div>
-        <div className="card-body">
-          <p className="card-text">Card content</p>
+        <div className="col-9">
+          <img
+            src={ImgMe}
+            alt="Duncan at Silverstone"
+            className="aboutMeImg"
+          ></img>
+          <p>I'm Duncan and a northerner by birth.</p>
+          <p>
+            I've always worked in IT, starting on the EPOS helpdesk for an
+            electrical retailer. I jumped into development and started coding in
+            dBaseII (for a helpdesk call logging system), then Today 4GL for a
+            service department system, and then Progress 4GL for a POS system
+          </p>
+          <p>
+            My career took a strange turn when I became an implementation
+            consultant for a software company. This involved not only coding the
+            product, but performing requirements gathering, business process
+            analysis, implementation and training. From this point forwards I
+            was then a business analyst.
+          </p>
+          <p>
+            Following some retraining, I'm now a front-end web developer and
+            technical business analyst with a life-long curiosity as to why
+            things work and why they don’t. Solutions to problems aren’t always
+            obvious, and I always try to think outside of the box. Strengths in
+            teamwork, investigating issues, requirements gathering and
+            stakeholder management. Accessibility is a must.
+          </p>
         </div>
       </div>
     </div>

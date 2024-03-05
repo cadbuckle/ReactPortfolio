@@ -54,6 +54,16 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.aboutMeImg {
+  float: left;
+  margin: 0;
+  margin-right: 1%;
+  display: flex;
+  width: 20%;
+  height: auto;
+  margin: 1%;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
