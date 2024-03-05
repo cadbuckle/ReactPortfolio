@@ -17,7 +17,7 @@ function Gallery() {
             screenShot={proj.screenShot}
           />
         ))}
-      </div>  /* row */
+      </div>  {/*  row */}
     </div>  /* container */
   );
 }
