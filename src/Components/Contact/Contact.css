@@ -1,0 +1,29 @@
+.card, .form {
+    text-shadow: #AAA 1.2px 1.2px 1px;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    background: #fff;
+    border-radius: 2px;
+    margin: 1rem;
+    position: relative;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+
+  .form {
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  .form input {
+    display: block;
+    margin: 5px;
+    width: 100%;
+    padding: 5px;
+  }
+
+  .formBtn {
+    border-radius: 5px;
+    border:#AAA;
+    border-style: solid;
+  }
+  

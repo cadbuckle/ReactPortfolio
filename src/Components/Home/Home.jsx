@@ -6,7 +6,7 @@ import ImgMe from '../../assets/DuncanAtSilverstone.jpg';
 function Home() {
   return (
     // <div className="container-fluid">
-    <div className="container-fluid">
+    <div className="container">
       <div className="row">
         <div className="col-3" id="aboutme">
           <h2>About Me</h2>
