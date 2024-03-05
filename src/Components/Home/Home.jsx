@@ -16,8 +16,8 @@ function Home() {
             src={ImgMe}
             alt="Duncan at Silverstone"
             className="aboutMeImg"
-          ></img>
-          <p>I'm Duncan and a northerner by birth.</p>
+          ></img><br></br>
+          <p>I'm Duncan, and welcome to my coding portfolio.</p>
           <p>
             I've always worked in IT, starting on the EPOS helpdesk for an
             electrical retailer. I jumped into development and started coding in
