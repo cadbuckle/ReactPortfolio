@@ -43,7 +43,7 @@ function Contact() {
 
   // Notice how each input has a `value`, `name`, and `onChange` prop
   return (
-    <div className="container-flex">
+    <div className="container">
       <h3>Contact Me:</h3>
       <p>Please complete the following form and I will get back to you.</p>
       <form className="form">
